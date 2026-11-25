@@ -52,3 +52,6 @@ Atualização: a galeria de uniformes esportivos foi substituída pela nova comp
 
 
 Atualização: seção completa de Uniformes Esportivos removida do portfólio conforme solicitado.
+
+
+Atualização: imagem da seção Copa ES substituída pela nova composição fotográfica enviada.
